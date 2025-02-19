@@ -1,0 +1,5 @@
+(.venv) cs677-user@c3eb71ea476b:~/lablet1/pyro5$ python3 greeting-client-simple.py 
+What is the Pyro uri of the greeting object? PYRO:obj_48859b23a3024e68b2a297c60fd5dd5d@172.17.0.2:37661
+What is your name? Dayeon
+Hello, Dayeon. Here is your fortune message:
+Behold the warranty -- the bold print giveth and the fine print taketh away.

@@ -1,0 +1,4 @@
+(.venv) cs677-user@c3eb71ea476b:~/lablet1/pyro5$ python3 greeting-client.py 
+What is your name? Dayeon
+Hello, Dayeon. Here is your fortune message:
+Tomorrow's lucky number is 12345678.

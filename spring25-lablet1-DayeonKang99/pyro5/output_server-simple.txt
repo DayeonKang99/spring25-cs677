@@ -1,0 +1,2 @@
+(.venv) cs677-user@25e795c6dc5f:~/lablet1/pyro5$ python3 greeting-server-simple.py 
+Ready. Object uri = PYRO:obj_48859b23a3024e68b2a297c60fd5dd5d@172.17.0.2:37661

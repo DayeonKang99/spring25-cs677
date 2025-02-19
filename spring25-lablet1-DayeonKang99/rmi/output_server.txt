@@ -1,0 +1,3 @@
+cs677-user@25e795c6dc5f:~/lablet1/rmi$ java -classpath /home/cs677-user/lablet1/rmi -Djava.rmi.server.codebase=file:/home/cs677-user/lablet1/rmi/ example.hello.Server &
+[2] 87
+cs677-user@25e795c6dc5f:~/lablet1/rmi$ Server ready
